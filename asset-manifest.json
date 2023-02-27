@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Weather-Application/static/css/main.0578c172.css",
+    "main.js": "/React-Weather-Application/static/js/main.d119fba8.js",
+    "static/media/Moody.jpg": "/React-Weather-Application/static/media/Moody.2b4f104e3d9731c936fa.jpg",
+    "static/media/569.png": "/React-Weather-Application/static/media/569.fb2c9a19c33989b6930c.png",
+    "index.html": "/React-Weather-Application/index.html",
+    "main.0578c172.css.map": "/React-Weather-Application/static/css/main.0578c172.css.map",
+    "main.d119fba8.js.map": "/React-Weather-Application/static/js/main.d119fba8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0578c172.css",
+    "static/js/main.d119fba8.js"
+  ]
+}
